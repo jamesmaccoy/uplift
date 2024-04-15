@@ -9,7 +9,7 @@ const AboutBanner = () => {
             <div className="container relative">
                 <div className="row">
                     <div className="col text-center">
-                        <h1 className="text-white sm:text-[40px]">About us</h1>
+                        <h1 className="text-white sm:text-[40px]">By providing trustworthy insurance to all South Africans</h1>
                     </div>
                 </div>
             </div>
